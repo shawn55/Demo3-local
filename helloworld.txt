@@ -1,7 +1,11 @@
 hello world!
 你好世界！
 aaa
+<<<<<<< HEAD
 bbb
 ccc
 ddd
 eee
+=======
+bbbbbb
+>>>>>>> parent of 1bd3c46... Update helloworld.txt
